@@ -16,6 +16,8 @@ A VR-based training simulation for operating a Quay Crane (QC) used in container
 
 ## 🧠 Project Overview
 
+The project can be easily accessed by copying the Drive Link from the "QC CRANE SIMULATOR.txt" file
+
 The simulator replicates real-world port crane operations in a virtual environment. Users can interact with crane controls to move containers, improving their understanding of:
 
 - Crane movement mechanics  
